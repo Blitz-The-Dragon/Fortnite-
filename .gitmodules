@@ -1,0 +1,21 @@
+[submodule "rust/Rustmaker"]
+	path = rust/Rustmaker
+	url = https://github.com/Nexus-FN/Rustmaker
+[submodule "rust/FortniteRuntime-rs"]
+	path = rust/FortniteRuntime-rs
+	url = https://github.com/omonkeyz/Fortnite-Rust
+[submodule "reconstruction/OT6-Reconstruction"]
+	path = reconstruction/OT6-Reconstruction
+	url = https://github.com/ApfelTeeSaft/OT6-Reconstruction
+[submodule "reconstruction/Limbo"]
+	path = reconstruction/Limbo
+	url = https://github.com/ArielS-gif/Limbo
+[submodule "reconstruction/Limbo-Backend"]
+	path = reconstruction/Limbo-Backend
+	url = https://github.com/ArielS-gif/Limbo-Backend
+[submodule "gameservers/Project-Reboot-3.0"]
+	path = gameservers/Project-Reboot-3.0
+	url = https://github.com/Milxnor/Project-Reboot-3.0
+[submodule "backends/LawinServer"]
+	path = backends/LawinServer
+	url = https://github.com/Lawin0129/LawinServer
